@@ -4,12 +4,14 @@ This project is a dynamic weather-style temperature converter built using core w
 I designed and developed it to practice JavaScript logic, DOM manipulation, and advanced CSS animations, while creating a UI that feels like a real weather application.
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used 
+
 HTML5 – Structure and layout
 CSS3 – Styling, animations, gradients, glassmorphism UI
 JavaScript (ES6) – Temperature conversion logic and dynamic UI updates
 
 ✨ Features
+
 Converts temperature between Celsius, Fahrenheit, and Kelvin
 Dynamic sky background that changes based on temperature
 Animated clouds and rain effect for realistic weather feel
