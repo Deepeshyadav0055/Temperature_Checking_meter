@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dynamic Weather Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="sky" id="sky">
+    <div class="cloud cloud1"></div>
+    <div class="cloud cloud2"></div>
+    <div class="cloud cloud3"></div>
+
+    <!-- Rain -->
+    <div class="rain" id="rain"></div>
+</div>
+
+<div class="card">
+    <h1>🌦 Weather Converter</h1>
+    <p class="subtitle">Dynamic temperature-based UI</p>
+
+    <input type="number" id="tempInput" placeholder="Enter temperature">
+
+    <select id="unit">
+        <option value="celsius">Celsius (°C)</option>
+        <option value="fahrenheit">Fahrenheit (°F)</option>
+        <option value="kelvin">Kelvin (K)</option>
+    </select>
+
+    <button onclick="convertTemp()">Convert</button>
+
+    <div class="result" id="result">
+        Converted value appears here
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
