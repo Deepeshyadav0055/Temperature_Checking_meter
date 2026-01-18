@@ -1,4 +1,5 @@
 🚀 Project Overview
+
 This project is a dynamic weather-style temperature converter built using core web technologies.
 I designed and developed it to practice JavaScript logic, DOM manipulation, and advanced CSS animations, while creating a UI that feels like a real weather application.
 
