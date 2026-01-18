@@ -19,4 +19,4 @@ Glassmorphism-style weather card
 Input validation for better user experience
 Smooth transitions and animations
 
-link - http://127.0.0.1:5500/temperatur_meter/index.html
+link - https://temperaturcheckingmeter.netlify.app/
